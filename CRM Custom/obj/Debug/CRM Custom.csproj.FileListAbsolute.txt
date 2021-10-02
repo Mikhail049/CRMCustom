@@ -1,0 +1,10 @@
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\bin\Debug\CRM Custom.exe.config
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\bin\Debug\CRM Custom.exe
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\bin\Debug\CRM Custom.pdb
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM Custom.csprojAssemblyReference.cache
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM_Custom.CRMWindowLogIn.resources
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM_Custom.Properties.Resources.resources
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM Custom.csproj.GenerateResource.cache
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM Custom.csproj.CoreCompileInputs.cache
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM Custom.exe
+H:\01_main\02_Study\09_Protfolio\CRMCustom\CRM Custom\CRM Custom\obj\Debug\CRM Custom.pdb
